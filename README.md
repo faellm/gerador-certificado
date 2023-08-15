@@ -9,7 +9,7 @@ Este projeto demonstra a automatização da criação de certificados usando Pyt
 
 2. **Clone o Repositório:**
    ```sh
-   git clone https://github.com/faellm/gerador-certificado.git
+  [ git clone https://github.com/faellm/gerador-certificado.git](https://github.com/faellm/gerador-certificado.git)
    cd SEU_REPOSITORIO
    ```
 
