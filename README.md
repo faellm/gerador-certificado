@@ -40,10 +40,3 @@ Os certificados gerados serão salvos individualmente em formato PDF no mesmo di
 ## Dúvidas ou Contribuição
 
 Se você tiver alguma dúvida sobre a execução do código ou desejar contribuir com melhorias, sinta-se à vontade para entrar em contato ou abrir uma issue neste repositório.
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
-```
-
-Lembre-se de substituir `SEU_USUARIO` e `SEU_REPOSITORIO` com o seu nome de usuário e nome do repositório no GitHub. Certifique-se também de que a estrutura de diretórios e nomes de arquivos esteja correta no seu projeto.
