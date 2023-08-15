@@ -18,13 +18,7 @@ Este projeto demonstra a automatização da criação de certificados usando Pyt
    pip install -r requirements.txt
    ```
 
-4. **Imagem de Fundo:**
-   Coloque a imagem de fundo para os certificados no diretório do projeto com o nome `fundo_certificado.png`.
-
-5. **Lista de Nomes e Cursos:**
-   Crie um arquivo CSV chamado `lista_de_nomes.csv` contendo os nomes e cursos dos participantes.
-
-6. **Execute o Script:**
+4. **Execute o Script:**
    No terminal, execute o seguinte comando para gerar os certificados:
    ```sh
    python main.py
